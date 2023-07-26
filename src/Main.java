@@ -7,7 +7,8 @@ public class Main {
 
         if (deposit > 1000) {
             System.out.println(bonus + check + deposit);
-        }else{
-            System.out.println(check + deposit);}
+        } else {
+            System.out.println(check + deposit);
+        }
     }
 }
